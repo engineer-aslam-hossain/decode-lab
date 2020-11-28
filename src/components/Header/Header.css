@@ -1,0 +1,15 @@
+.MuiTabs-flexContainer {
+  justify-content: space-around;
+  padding-bottom: 1rem;
+}
+hr.hrLine {
+  width: 100vw;
+  background-color: #00c49a;
+  height: 1px;
+  position: absolute;
+  top: 5.4rem;
+  border: none;
+}
+.container {
+  padding: 2rem 5rem;
+}
