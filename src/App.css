@@ -37,3 +37,7 @@ ul > li {
   align-items: center;
   justify-content: space-between;
 }
+
+ul > li:hover {
+  cursor: pointer;
+}
